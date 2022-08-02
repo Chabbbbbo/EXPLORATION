@@ -1,14 +1,14 @@
 
 # AIFFEL Hands-on Project 
 ---
-이 repository는 AIFFEL에서 진행한 EDA, ML, DL 실습 내용을 담고있습니다:)  
+### 이 repository는 AIFFEL에서 진행한 EDA, ML, DL 실습 내용을 담고있습니다:)  
 
 - 기간 : 22.04.29 ~ 07.04 (약 2개월)
 
 </br>
 
 
-각 프로젝트들은 **`[EX- no]`** - `[E-no ] Title` 의 형식으로 구성되어있고, 해당 Folder내에 관련 자료들이 있습니다. 
+#### 각 프로젝트들은 `[EX- no]` - `[E-no ] Title` 의 형식으로 구성되어있고, 해당 Folder내에 관련 자료들이 있습니다. 
     
 </br>
 
