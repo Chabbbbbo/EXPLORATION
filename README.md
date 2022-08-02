@@ -1,7 +1,6 @@
 
 # AIFFEL Hands-on Project   
 
----
 
 ### 이 repository는 AIFFEL에서 진행한 EDA, ML, DL 실습 내용을 담고있습니다:)  
 
